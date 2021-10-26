@@ -1,3 +1,3 @@
-# WEB-COUNTRY-CMS
+# WEB-COUNTRY
 
-https://webboroda.github.io/web-country-cms/
+https://webboroda.github.io/web-country/
